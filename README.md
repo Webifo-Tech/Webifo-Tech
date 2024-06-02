@@ -1,7 +1,6 @@
 # Welcome to Webifo's GitHub Profile
 
-![Webifo Logo](https://github.com/Webifo-Tech/Webifo-Tech/assets/171500354/5d2b2277-866c-4a0d-a7c2-e99c6ca824c9)
-
+![Webifo-Logo](https://github.com/Webifo-Tech/Webifo-Tech/assets/171500354/e0849631-4889-474f-8d39-bb31e32b9bad)
 
 ## About Webifo
 
